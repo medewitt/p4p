@@ -1,0 +1,17 @@
+REID,street,zipcode,city,state,latitude,longitude,FIPScounty,useCode,taxAssessmentYear,yearBuilt,lotSizeSqFt,finishedSqFt,bathrooms,bedrooms,zestimate,name,type
+6826913066000       ,842 W 12th St,27105,Winston Salem,NC,36.109406,-80.254734,37067,SingleFamily,2018,1916,6098,672,1.0,2,27783,Boston Thurmon,neighborhood
+6836937416000       ,2025 E 18th St,27105,Winston Salem,NC,36.116358,-80.219871,37067,SingleFamily,2018,1930,13939,1327,1.5,3,36908,North East Winston,neighborhood
+6834441457000       ,2626 Stockton St,27127,Winston Salem,NC,36.064064,-80.237819,37067,MultiFamily2To4,2018,1927,15246,1400,1.0,3,76392,South Park,neighborhood
+6834162355000       ,509 W Devonshire St,27127,Winston Salem,NC,36.069064,-80.247726,37067,SingleFamily,2018,1925,7405,880,1.0,3,27328,Washington Park,neighborhood
+6826944510000       ,2046 Cherry St,27105,Winston Salem,NC,36.118864,-80.254663,37067,SingleFamily,2018,2010,10018,1270,2.0,3,92291,Old Cherry,neighborhood
+6825826170000       ,1151 W Academy St,27101,Winston Salem,NC,36.084766,-80.256667,37067,SingleFamily,2018,1947,7840,816,1.0,2,,Wachovia Highlands,neighborhood
+6835100353000       ,900 Shuman St,27101,Winston Salem,NC,36.080012,-80.248542,37067,SingleFamily,2018,1959,11325,1323,2.0,4,147737,West Salem,neighborhood
+6825511839000       ,615 S Hawthorne Rd,27103,Winston Salem,NC,36.084073,-80.268621,37067,SingleFamily,2018,1924,13503,1966,2.0,3,264682,Ardmore,neighborhood
+6834161269000       ,515 W Devonshire St,27127,Winston Salem,NC,36.068917,-80.248012,37067,SingleFamily,2018,1920,6969,1281,1.0,3,62973,Washington Park,neighborhood
+6825573402000       ,246 N Hawthorne Rd,27104,Winston Salem,NC,36.099275,-80.268269,37067,SingleFamily,2018,1950,18295,2500,3.5,5,424436,West Highlands,neighborhood
+6844155706000       ,1215 E Sprague St,27107,Winston Salem,NC,36.06779,-80.212986,37067,SingleFamily,2018,1925,8712,1474,2.0,2,35573,Waughtown,neighborhood
+6834270935000       ,309 Cascade Ave,27127,Winston Salem,NC,36.073528,-80.245122,37067,SingleFamily,2018,1920,7405,2506,2.0,4,294964,Washington Park,neighborhood
+6826111482000       ,722 Sylvan Rd,27104,Winston Salem,NC,36.110112,-80.282447,37067,SingleFamily,2018,1948,16117,2424,2.5,4,412129,Buena Vista,neighborhood
+6836646681000       ,2211 NE Cleveland Ave,27105,Winston Salem,NC,36.119396,-80.230112,37067,SingleFamily,2018,1920,3920,872,1.0,2,30640,North East Winston,neighborhood
+6825842509000       ,1234 W 4th St,27101,Winston Salem,NC,36.091592,-80.258376,37067,SingleFamily,2018,1915,19166,2532,4.0,8,284901,West End South,neighborhood
+6836361804000       ,2812 N Patterson Ave,27105,Winston Salem,NC,36.125389,-80.24232,37067,SingleFamily,2018,1926,7405,1370,1.0,3,49850,Greenway,neighborhood

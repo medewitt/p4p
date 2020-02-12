@@ -1,0 +1,5 @@
+REID,street,zipcode,city,state,latitude,longitude,FIPScounty,useCode,taxAssessmentYear,yearBuilt,lotSizeSqFt,finishedSqFt,bathrooms,bedrooms,zestimate,name,type
+6825637554000       ,264 S Sunset Dr,27103,Winston Salem,NC,36.088676,-80.26306,37067,SingleFamily,2018,1925,13939,1402,1.0,3,161038,Ardmore,neighborhood
+6835674462000       ,1213 E 4th St,27101,Winston Salem,NC,36.099646,-80.23057,37067,SingleFamily,2018,1940,3484,912,1.0,3,31758,East Winston,neighborhood
+6825094558000       ,450 N Avalon Rd,27104,Winston Salem,NC,36.10502,-80.28482,37067,SingleFamily,2018,1951,14810,1430,1.5,3,345520,Buena Vista,neighborhood
+6825873970000       ,626 Summit St,27101,Winston Salem,NC,36.100693,-80.257963,37067,SingleFamily,2018,1920,9583,3096,3.5,5,496323,Westend,neighborhood
