@@ -1,0 +1,47 @@
+REID,street,zipcode,city,state,latitude,longitude,FIPScounty,useCode,taxAssessmentYear,yearBuilt,lotSizeSqFt,finishedSqFt,bathrooms,bedrooms,zestimate,name,type
+6834235691000,2715 Konnoak Dr,27127,Winston Salem,NC,36.061453,-80.244229,37067,SingleFamily,2018,1950,21780,2019,3.0,2,134481,Konnoak,neighborhood
+6844155533000,1220 E Sprague St,27107,Winston Salem,NC,36.067176,-80.212913,37067,SingleFamily,2018,1920,6534,944,2.0,4,45422,Waughtown,neighborhood
+6836823395000,1410 Hattie Ave,27105,Winston Salem,NC,36.113259,-80.224292,37067,SingleFamily,2018,1930,4791,1960,1.0,5,,North East Winston,neighborhood
+6834208607000,3210 Luther St,27127,Winston Salem,NC,36.053532,-80.242234,37067,SingleFamily,2018,2002,8276,1176,2.0,3,118884,Konnoak,neighborhood
+6844051247000,1018 E Devonshire St,27107,Winston Salem,NC,36.066416,-80.217576,37067,SingleFamily,2018,1952,7405,828,1.0,2,30216,Waughtown,neighborhood
+6835960128000,1833 Kentucky Ave,27101,Winston Salem,NC,36.096321,-80.221826,37067,SingleFamily,2018,1950,9147,876,1.0,2,31599,Skyland,neighborhood
+6825528167000,1829 W Academy St,27103,Winston Salem,NC,36.084862,-80.266167,37067,SingleFamily,2018,1939,13068,1786,2.0,3,246381,Ardmore,neighborhood
+6815035014000,204 S Gordon Dr,27104,Winston Salem,NC,36.086689,-80.318167,37067,SingleFamily,2018,1945,19602,1593,2.0,4,138002,South Fork,neighborhood
+6825501916000,825 Watson Ave,27103,Winston Salem,NC,36.081515,-80.268711,37067,SingleFamily,2018,1939,11325,2050,2.0,4,238956,Ardmore,neighborhood
+6835965845000,1940 Maryland Ave,27101,Winston Salem,NC,36.098214,-80.220121,37067,SingleFamily,2018,1949,6534,672,1.0,2,14845,Skyland,neighborhood
+6834460729000,16 E Monmouth St,27127,Winston Salem,NC,36.070364,-80.238367,37067,SingleFamily,2018,1969,7405,800,1.0,2,63823,Washington Park,neighborhood
+6825405497000,855 Fenimore St,27103,Winston Salem,NC,36.080136,-80.270435,37067,SingleFamily,2018,1947,11325,1005,1.0,2,177399,Ardmore,neighborhood
+6825432322000,2070 Queen St,27103,Winston Salem,NC,36.08796,-80.271758,37067,SingleFamily,2018,1940,9583,1594,2.0,3,236382,Ardmore,neighborhood
+6835666913000,1303 E 2nd St,27101,Winston Salem,NC,36.098296,-80.230029,37067,SingleFamily,2018,1960,6534,1594,1.0,3,46730,East Winston,neighborhood
+6824296537000,1104 Martin St,27103,Winston Salem,NC,36.077625,-80.277001,37067,SingleFamily,2018,1945,8712,824,1.0,2,124360,Ardmore,neighborhood
+6836252715000,2512 Greenway Ave,27105,Winston Salem,NC,36.122405,-80.245262,37067,SingleFamily,2018,1937,8276,1415,1.5,3,76588,Greenway,neighborhood
+6844776967000,2422 Waughtown St,27107,Winston Salem,NC,36.074104,-80.192264,37067,SingleFamily,2018,1938,13503,1387,1.0,4,,Parkview,neighborhood
+6846060825000,2718 Manchester St,27105,Winston Salem,NC,36.125675,-80.21889,37067,SingleFamily,2018,1922,7405,896,1.0,3,29480,Bowen Park,neighborhood
+6824592891000,942 Madison Ave,27103,Winston Salem,NC,36.078358,-80.268024,37067,SingleFamily,2018,1950,10018,1028,1.0,2,146370,Ardmore,neighborhood
+6825486078000,1910 Angelo St,27104,Winston Salem,NC,36.101025,-80.270482,37067,SingleFamily,2018,1977,14374,1138,3.0,3,258387,West Highlands,neighborhood
+6833672382000,3715 Southdale Ave,27107,Winston Salem,NC,36.044453,-80.230293,37067,SingleFamily,2018,1965,7405,1000,1.0,3,53512,Weston,neighborhood
+6815037051000,207 S Gordon Dr,27104,Winston Salem,NC,36.086634,-80.317361,37067,SingleFamily,2018,1940,20037,1031,1.0,2,112786,South Fork,neighborhood
+6825215884000,2319 Westover Dr,27103,Winston Salem,NC,36.083894,-80.277255,37067,SingleFamily,2018,1940,10454,2300,2.0,4,295959,Ardmore,neighborhood
+6844136743000,2712 Peachtree St,27107,Winston Salem,NC,36.06222,-80.212431,37067,SingleFamily,2018,1961,7405,800,1.0,2,29346,Waughtown,neighborhood
+6834163271000,506 W Devonshire St,27127,Winston Salem,NC,36.068678,-80.247299,37067,SingleFamily,2018,1953,6534,624,1.0,2,47015,Washington Park,neighborhood
+6835897879000,920 N Cameron Ave,27101,Winston Salem,NC,36.106545,-80.222854,37067,SingleFamily,2018,1950,7840,1740,1.0,4,99269,Reynoldstown,neighborhood
+6834070193000,720 W Banner Ave,27127,Winston Salem,NC,36.071158,-80.251646,37067,SingleFamily,2018,1952,9147,918,1.0,2,115129,Washington Park,neighborhood
+6815981680000,219 N Westview Dr,27104,Winston Salem,NC,36.1023,-80.289051,37067,SingleFamily,2018,1930,17424,3256,3.5,4,641651,Buena Vista,neighborhood
+6835669932000,1329 E 2nd St,27101,Winston Salem,NC,36.098263,-80.228923,37067,SingleFamily,2018,1958,6534,1431,1.0,3,41828,East Winston,neighborhood
+6836729058000,1524 E 14th St,27105,Winston Salem,NC,36.112495,-80.225691,37067,SingleFamily,2018,1910,10454,2314,1.5,3,,East Winston,neighborhood
+6836856440000,2427 Newark St,27105,Winston Salem,NC,36.121638,-80.22347,37067,SingleFamily,2018,1925,10890,818,1.0,2,26106,North East Winston,neighborhood
+6835678003000,1318 E 3rd St,27101,Winston Salem,NC,36.098589,-80.229378,37067,SingleFamily,2018,1910,7405,1095,1.0,3,34506,East Winston,neighborhood
+6837792330000,4924 Old Rural Hall Rd,27105,Winston Salem,NC,36.159725,-80.228845,37067,SingleFamily,2018,1915,27878,936,1.0,3,34984,Mineral Springs,neighborhood
+6844532016000,2524 Woodville St,27107,Winston Salem,NC,36.060508,-80.20033,37067,SingleFamily,2018,1950,8712,832,1.0,2,29502,Waughtown,neighborhood
+6834879063000,2035 Urban St,27107,Winston Salem,NC,36.071168,-80.221638,37067,SingleFamily,2018,1923,4791,720,1.0,2,27963,Forest Park,neighborhood
+6834719487000,3210 Fremont St,27107,Winston Salem,NC,36.055949,-80.224737,37067,SingleFamily,2018,1928,7840,800,1.0,2,27922,Easton,neighborhood
+6826400359000,1850 Greenbrier Rd,27104,Winston Salem,NC,36.107341,-80.272605,37067,SingleFamily,2018,1990,20473,5687,6.0,4,568725,Buena Vista,neighborhood
+6844031495000,1012 E Clemmonsville Rd,27107,Winston Salem,NC,36.061389,-80.217313,37067,SingleFamily,2018,1948,16988,926,1.0,2,31706,Belview,neighborhood
+6837324759000,3919 Sheraton St,27105,Winston Salem,NC,36.141758,-80.241385,37067,SingleFamily,2018,1937,15246,1330,1.0,3,54093,Montview,neighborhood
+6837324759000,3919 Sheraton St,27105,Winston Salem,NC,36.141758,-80.241385,37067,SingleFamily,2018,2002,15246,1257,2.0,3,54093,Montview,neighborhood
+6844889588000,2647 Waughtown St,27107,Winston Salem,NC,36.075806,-80.187814,37067,SingleFamily,2018,1926,9147,1396,2.0,3,109477,Parkview,neighborhood
+6836828623000,1430 N Cameron Ave,27105,Winston Salem,NC,36.11409,-80.222775,37067,SingleFamily,2018,1940,4356,687,1.0,2,25598,North East Winston,neighborhood
+6834566281000,337 E Devonshire St,27127,Winston Salem,NC,36.068815,-80.232721,37067,SingleFamily,2018,1910,7405,1220,1.0,3,,Sunnyside,neighborhood
+6825106942000,2416 Fairway Dr,27103,Winston Salem,NC,36.081267,-80.280484,37067,SingleFamily,2018,1929,10454,1680,2.5,3,317628,Ardmore,neighborhood
+6844670359000,1961 Flatrock St,27107,Winston Salem,NC,36.072423,-80.197695,37067,SingleFamily,2018,1965,5662,988,1.0,2,37139,Flat Rock,neighborhood
+6836978071000,2727 Ansonia St,27105,Winston Salem,NC,36.12609,-80.219405,37067,SingleFamily,2018,1940,7405,784,1.0,2,,Bowen Park,neighborhood

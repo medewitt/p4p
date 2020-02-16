@@ -17,7 +17,10 @@ single_family_zones <- c(
   "RS7"
 )
 
-dat_1 <- readr::read_rds(here::here("data", "forsyth_property_taxes.rds"))
+combined <- purrr::map_dfr(fs::dir_ls(path = here::here("data"), regexp = ".+raw_tax.+"), readr::read_rds)
+dat_1 <- combined %>% 
+  distinct()
+
 
 dat_2 <- dat_1 %>% 
   filter(!is.na(PROPERTYADDRESS)) %>% 

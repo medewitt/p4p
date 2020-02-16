@@ -8,11 +8,19 @@ library(httr)
 library(rvest)
 
 source(here::here("libs", "get_zillow_data.R"))
-for(i in 52:82){
+
+combined <- purrr::map_dfr(fs::dir_ls(path = here::here("data"), regexp = ".+raw_tax.+"), readr::read_rds)
+
+combined <- combined %>% 
+  distinct()
+
+for(i in 2:93){
 # current data ------------------------------------------------------------
 
-dat_1 <- readr::read_rds(here::here("data", "forsyth_property_taxes.rds"))
+#dat_1 <- readr::read_rds(here::here("data", "forsyth_property_taxes.rds"))
 
+  dat_1 <- combined
+  
 single_family_zones <- c(
   "RS40",
   "RS30",
@@ -33,7 +41,8 @@ dat_2 <- dat_1 %>%
 existing_records <- list.files("data", pattern = "addresses.csv", full.names = T)
 
 already_read <- map_dfr(existing_records, read_csv, col_type = cols(REID = col_character())) %>% 
-  mutate(street = toupper(street))
+  mutate(street = toupper(street)) %>% 
+  distinct()
 
 # seed setting ------------------------------------------------------------
 
@@ -45,8 +54,12 @@ set.seed(336)
 dat_2 = dat_2 %>% 
   anti_join(already_read, by = c("REID"))
 
+if(nrow(dat_2)==0){
+  break
+}
+
 # Format for Zillow API Requirements
-make_payload <- sample_n(dat_2, 200) %>% 
+make_payload <- sample_n(dat_2, 723) %>% 
   mutate(address = paste(PROPERTYADDRESS),
          city = paste("WINSTON-SALEM, NC")) %>% 
   mutate(address = str_trim(str_replace(address,"[[:space:]]+", " ")),"both") %>% 
